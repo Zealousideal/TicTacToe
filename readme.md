@@ -27,14 +27,15 @@ A **classic Tic-Tac-Toe game** built using **HTML, CSS, and JavaScript** with a 
 
 ---
 
-## 🚀 How to Run Locally  
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
-```
-2️⃣ **Open `index.html` in a browser**  
+## 🚀 How to Run 
 
----
+1️⃣ **Play the Game Online**  
+👉 [Click Here to Play](https://zealousideal.github.io/TicTacToe/)  
+
+2️⃣ **Clone the repository (for local development)**  
+```bash
+git clone https://github.com/Zealousideal/TicTacToe.git
+
 
 ## 🎵 Background Music  
 This game includes a **background music feature**. The music starts **after the first user interaction** (due to browser autoplay restrictions). A **mute/unmute button** is available at the top right.  
