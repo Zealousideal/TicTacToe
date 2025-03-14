@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;    
+}
+
+body {
+    background-color: #568EA3;
+    text-align: center;
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.6);
+    font-size: 8vmin;
+    color: #826251;
+    background-color: #FFFFFF;
+}
+
+#reset {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #826251;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.6);
+    color: #FFE8D1;
+    border: none;
+    border-radius: 1rem;
+}
+
+#newGame {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #826251;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.6);
+    color: #FFE8D1;
+    border: none;
+    border-radius: 1rem;
+}
+
+#msg {
+    color: #FFE8D1;
+    font-size: 5vmin;
+}
+
+.msgContainer {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.hide {
+    display: none;
+}
+#tic-tac-toe-heading {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 5vmin;
+    text-align: center;
+    background: linear-gradient(to right, #FFE8D1, #E4C9A3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 3px 3px 0 #826251, 6px 6px 0 #000;
+    margin-top: 2rem;
+    letter-spacing: 2px;
+}
