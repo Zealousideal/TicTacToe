@@ -16,7 +16,7 @@ A **classic Tic-Tac-Toe game** built using **HTML, CSS, and JavaScript** with a 
 ## 📷 Screenshots  
 ![alt text](./Assets/TicTacToeStartPage.png)
 ![alt text](./Assets/Winner.png)
-![alt text](./Assets/Draw.png.png)
+![alt text](./Assets/Draw.png)
 
 ---
 
