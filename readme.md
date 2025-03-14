@@ -33,9 +33,9 @@ A **classic Tic-Tac-Toe game** built using **HTML, CSS, and JavaScript** with a 
 👉 [Click Here to Play](https://zealousideal.github.io/TicTacToe/)  
 
 2️⃣ **Clone the repository (for local development)**  
-```bash
+```
 git clone https://github.com/Zealousideal/TicTacToe.git
-
+```
 
 ## 🎵 Background Music  
 This game includes a **background music feature**. The music starts **after the first user interaction** (due to browser autoplay restrictions). A **mute/unmute button** is available at the top right.  
